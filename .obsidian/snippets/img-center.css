@@ -1,0 +1,8 @@
+.markdown-preview-view img{
+    left: 50%;
+    position: relative;
+    transform: translateX(-50%);
+}
+
+
+

@@ -1,0 +1,27 @@
+{
+  "frames": [
+    {
+      "url": "https://www.latexlive.com/",
+      "displayName": "latexlive",
+      "icon": "function-square",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://www.ningyu.vip/",
+      "displayName": "blog",
+      "icon": "book-open",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    }
+  ],
+  "padding": 5
+}

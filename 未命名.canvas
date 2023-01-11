@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"ad7e7cf19364c13c","x":-277,"y":-33,"width":400,"height":229,"type":"file","file":"Primer C++(第5版).pdf"},
+		{"id":"8bf929b0e55a19f3","x":-111,"y":-298,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"6f5ea8988d5ff5ab","fromNode":"ad7e7cf19364c13c","fromSide":"top","toNode":"8bf929b0e55a19f3","toSide":"bottom"}
+	]
+}

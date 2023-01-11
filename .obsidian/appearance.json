@@ -1,0 +1,12 @@
+{
+  "accentColor": "#ffb3b3",
+  "cssTheme": "Blue Topaz",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "Cascadia Mono",
+  "baseFontSize": 14,
+  "translucency": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": []
+}
