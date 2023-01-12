@@ -1,5 +1,5 @@
 {
-  "accentColor": "#ffb3b3",
+  "accentColor": "#800080",
   "cssTheme": "Blue Topaz",
   "theme": "obsidian",
   "interfaceFontFamily": "Inter",
@@ -8,5 +8,6 @@
   "baseFontSize": 14,
   "translucency": true,
   "nativeMenus": false,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [],
+  "showViewHeader": true
 }

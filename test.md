@@ -1,6 +1,3 @@
----
-banner: "![[QQ图片20230108184607.jpg]]"
----
 
 
 ![[Recording 20230111155344.webm]]
@@ -12,16 +9,14 @@ banner: "![[QQ图片20230108184607.jpg]]"
 
 
 
-字体大小
-
-<img src="C:\Users\凝雨\Desktop\QQ图片20230108184607.jpg" style="zoom:50%;" />
+==字体大小==  ==回复退还甲方==
 
  ![[QQ图片20230108184607.jpg|175]]
 
-| test1  | test2  | test3 |
-| ------ | ------ | ----- |
-| sadsad | sff    | wfewf |
-| wfwef  | wfesfg | efefe      |
+| test1  | test2  | test3 | fsdfdsf |
+|:------:|:------:|:-----:|:-------:|
+| sadsad |  sff   | wfewf |  scsdc  |
+| wfwef  | wfesfg | efefe | sdvcsd  |
 
 
 ```python
@@ -80,9 +75,9 @@ for循环遍历赋值，但...似乎可以更简便
 
 可以使用`void *memset(void *str, int c, size_t n)` 函数
 
--   解释：复制字符 c（一个无符号字符）到参数 str 所指向的字符串的前 n 个字符
--   作用：是在一段内存块中填充某个给定的值，它是对较大的结构体或数组进行清零操作的一种最快方法
--   头文件：C中`#include<string.h>`，C++中`#include<cstring>`
+- <mark style="background: #D2B3FFA6;">解释</mark>：复制字符 c（<mark class="hltr-yellow">一个无符号字符</mark>）到参数 str 所指向的字符串的前 n 个字符
+- <mark style="background: #FFB86CA6;">作用</mark>：是在一段内存块中填充某个给定的值，它是对较大的结构体或数组进行清零操作的一种最快方法
+- <mark style="background: #FFF3A3A6;">头文件</mark>：C中`#include<string.h>` ，C++中`#include<cstring>`
 
 #dsfdf #dsvsdv #vsdvsvfd #egfesgrg #thtyhj
 
@@ -112,3 +107,22 @@ A & =d R+\left[\frac{(1-d)}{N}\right] e e^{T} \\
 \end{array}\right]
 \end{aligned}
 $$
+
+
+```ad-check
+title: Check_test
+这是一个注意框
+
+```
+
+```ad-tip
+title: Tip_test
+collapse: open
+<mark style="background: #ABF7F7A6;">这是一个注意框</mark>
+
+```
+
+> [!abstract]+ Abstract_test
+> 这是一个测试框
+
+

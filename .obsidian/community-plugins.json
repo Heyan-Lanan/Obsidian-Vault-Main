@@ -12,5 +12,9 @@
   "mx-bili-plugin",
   "mousewheel-image-zoom",
   "obsidian-banners",
-  "obsidian-emoji-toolbar"
+  "obsidian-emoji-toolbar",
+  "obsidian-admonition",
+  "highlightr-plugin",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-pandoc"
 ]

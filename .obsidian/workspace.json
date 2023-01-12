@@ -4,27 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "63ba27d2f82c6927",
+        "id": "c0ed7de37af410cd",
         "type": "tabs",
         "children": [
           {
-            "id": "e5a8f79e0e89551b",
+            "id": "859c3feb443942d7",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-latexlive",
-              "state": {}
-            }
-          },
-          {
-            "id": "9e4a0f61ecb03655",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "test.md"
+              }
             }
           },
           {
@@ -155,11 +154,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 727.5,
+    "width": 304.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -183,17 +182,17 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "863e9807ceb2fe83",
+  "active": "859c3feb443942d7",
   "lastOpenFiles": [
     "测试.md",
     "test.md",
+    "_notion-like-tables/table-id-vYJ5tE.md",
     "Primer C++(第5版).pdf",
     "pic/pic1_50.png.md",
     "QQ图片20230108184607.jpg",
     "未命名.canvas",
     "未命名思维导图 2.md",
     "未命名思维导图 1.md",
-    "未命名思维导图.md",
-    "Recording 20230111155248.webm"
+    "未命名思维导图.md"
   ]
 }

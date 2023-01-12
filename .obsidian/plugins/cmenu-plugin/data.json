@@ -98,6 +98,21 @@
       "id": "workspace:export-pdf",
       "name": "导出为 PDF",
       "icon": "pdf-file"
+    },
+    {
+      "id": "obsidian-admonition:insert-admonition",
+      "name": "Admonition: Insert Admonition",
+      "icon": "info"
+    },
+    {
+      "id": "obsidian-admonition:insert-callout",
+      "name": "Admonition: Insert Callout",
+      "icon": "remix-MarkPenLine"
+    },
+    {
+      "id": "editor:toggle-source",
+      "name": "切换实时阅览/源码模式",
+      "icon": "lucide-code-2"
     }
   ],
   "appendMethod": "workspace",
